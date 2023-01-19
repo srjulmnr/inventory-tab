@@ -1,1 +1,1 @@
-# inventory-tab
+# inventory-lab
